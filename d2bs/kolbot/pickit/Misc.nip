@@ -1,0 +1,61 @@
+//			##pots##
+[name] == greaterhealingpotion
+[name] == superhealingpotion
+[name] == greatermanapotion
+[name] == supermanapotion
+[name] == rejuvenationpotion
+[name] == fullrejuvenationpotion
+
+//----------------
+
+//			$$gold&key##
+
+[name] == key # # [MaxQuantity] == 12
+[name] == gold # [gold] >= 500
+
+//----------------
+
+//			##runes##
+
+//[name] == elrune # # [MaxQuantity] == 1
+//[name] == eldrune # # [MaxQuantity] == 1
+//[name] == tirrune # # [MaxQuantity] == 1
+//[name] == nefrune # # [MaxQuantity] == 1
+//[name] == ethrune # # [MaxQuantity] == 1
+//[name] == ithrune # # [MaxQuantity] == 1
+//[name] == talrune # # [MaxQuantity] == 1
+//[name] == ralrune # # [MaxQuantity] == 1
+//[name] == ortrune # # [MaxQuantity] == 1
+//[name] == thulrune # # [MaxQuantity] == 3
+//[name] == amnrune # # [MaxQuantity] == 3
+//[name] == solrune # # [MaxQuantity] == 3
+//[name] == shaelrune # # [MaxQuantity] == 3
+//[name] == dolrune # # [MaxQuantity] == 3
+//[name] == helrune # # [MaxQuantity] == 3
+//[name] == iorune # # [MaxQuantity] == 3
+//[name] == lumrune # # [MaxQuantity] == 3
+//[name] == korune # # [MaxQuantity] == 3
+//[name] == falrune # # [MaxQuantity] == 3
+//[name] == lemrune # # [MaxQuantity] == 3
+//[name] == Pulrune # # [MaxQuantity] == 3
+[name] >= Umrune && [name] <= zodrune
+
+//---------------
+
+//			##ubers##
+
+[name] == keyofhate # # [maxquantity] == 3
+[name] == keyofterror # # [maxquantity] == 3
+[name] == keyofdestruction # # [maxquantity] == 3
+[name] == diablo'shorn
+[name] == mephisto'sbrain
+[name] == baal'seye
+
+//--------------
+
+//			##gems##
+
+[name] == perfectamethyst || [name] == perfecttopaz || [name] == perfectdiamond || [name] == perfectsapphire
+//[name] ==  flawlessamethyst # # [maxquantity]
+//[name] == flawlessemerald
+//[name] == flawlessdiamond # # [maxquantity] == 3

@@ -1,0 +1,918 @@
+[00:12:22] <MF Sorc> Unknown name: chainglobes File: Uniques.nip Line: 24
+[00:12:22] <MF Sorc> Unknown name: chainglobes File: Uniques.nip Line: 24
+[00:12:22] <MF Sorc> Unknown name: chainglobes File: Uniques.nip Line: 24
+[01:13:22] <MF Sorc> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:15
+[01:31:14] <MF Sorc> Error in BoneAsh (attack.js line 214): Failed to kill Bone Ash
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BoneAsh@boneash.js:16, Attack.kill@attack.js:214
+[09:39:22] <MF Sorc> Pickit error! Line # 58 Entry: [Name] == MeshArmor && [Quality] == Unique [Flag] != Ethereal					//SHAFTSTOP (Uniques.nip) Error message: missing ; before statement Trigger item: Damaged Giant Sword
+[09:39:22] <MF Sorc> Pickit error! Line # 59 Entry: [Name] == MeshArmor && [Quality] == Unique [Flag] == Ethereal 					//Ethereal SHAFTSTOP (Uniques.nip) Error message: identifier starts immediately after numeric literal Trigger item: Damaged Giant Sword
+[10:13:36] <MF Sorc> Pickit error! Line # 70 Entry: [Name] == KrakenShell && [Quality] == Unique [Flag] == Ethereal 				//Ethereal LEVIATHAN (Uniques.nip) Error message: identifier starts immediately after numeric literal Trigger item: Arrows
+[16:54:56] <Tweaxer> NIP file doesn't exist: pickit/kolton.nip
+[02:30:31] <Tweaxie> Error in BaalAssistant (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalAssistant@baalassistant.js:373, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[04:53:14] <Tweaxey> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[04:53:14] <Tweaxie> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[04:53:14] <Tweaxer> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[04:53:14] <Tweaxe> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[05:55:16] <Tweaxe> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[05:56:23] <Tweaxe> Error in AutoBaal (autobaal.js line 169): Autobaal: Leader not partied
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AutoBaal@autobaal.js:169
+[06:23:01] <ISOUniques> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[06:27:28] <ISOUniques> Error in Tombs (pather.js line 939): Pather.useWaypoint: Failed to go to waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:939
+[06:27:36] <ISOUniques> Error in KurastTemples (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:27:38] <ISOUniques> Error in Travincal (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:27:40] <ISOUniques> Error in Mephisto (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:27:40] <ISOUniques> Error in Eldritch (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Eldritch@eldritch.js:11, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[06:52:30] <ISOUniques> Error in Tristram (tristram.js line 57): stone is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:56, @tristram.js:57
+[07:06:19] <ISOUniques> Error in Mausoleum (mausoleum.js line 23): Failed to move to Mausoleum
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:23
+[07:10:39] <ISOUniques> Error in Mausoleum (mausoleum.js line 23): Failed to move to Mausoleum
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:23
+[10:28:55] <ISOUniques> Error in KurastTemples (kurasttemples.js line 23): Failed to move to the temple
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:23
+[13:20:33] <ISOUniques> Error in Baal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[13:25:13] <ISOHrs> Error in Mausoleum (mausoleum.js line 13): Failed to move to Burial Grounds
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:13
+[13:26:59] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[13:34:13] <ISOUniques> Error in Baal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[13:40:45] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[14:21:45] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[14:40:56] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[15:13:45] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:46] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:47] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:48] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:48] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:49] <ISOCharms> Error in Radament (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:50] <ISOCharms> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:51] <ISOCharms> Error in Duriel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:47, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:51] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:52] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:53] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:13:54] <ISOCharms> Error in Questing (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Questing@questing.js:244, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:19] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:19] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:20] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:21] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:22] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:23] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:24] <ISOCharms> Error in Radament (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:24] <ISOCharms> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:25] <ISOCharms> Error in Duriel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:47, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:26] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:27] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:28] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:16:28] <ISOCharms> Error in Questing (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Questing@questing.js:244, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:19:56] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:19:57] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:19:57] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:19:58] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:19:59] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:00] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:01] <ISOCharms> Error in Radament (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:01] <ISOCharms> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:02] <ISOCharms> Error in Duriel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:47, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:03] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:04] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:04] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:20:05] <ISOCharms> Error in Questing (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Questing@questing.js:244, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:12] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:12] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:13] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:14] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:15] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:15] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:16] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:17] <ISOCharms> Error in Mephisto (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:133, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:22:18] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:25:19] <ISOCharms> NIP file doesn't exist: pickit/kolton.nip
+[15:29:20] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:20] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:21] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:22] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:23] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:24] <ISOCharms> Error in Radament (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:24] <ISOCharms> Error in Coldworm (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Coldworm@coldworm.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:25] <ISOCharms> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:26] <ISOCharms> Error in Duriel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:47, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:27] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:29:27] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:52] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:53] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:54] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:54] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:55] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:56] <ISOCharms> Error in Radament (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:57] <ISOCharms> Error in Coldworm (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Coldworm@coldworm.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:57] <ISOCharms> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:58] <ISOCharms> Error in Duriel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:47, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:35:59] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:36:00] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:36:01] <ISOCharms> Error in Questing (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Questing@questing.js:244, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:40:44] <ISOCharms> NIP file doesn't exist: pickit/set.nip
+[15:40:44] <ISOCharms> NIP file doesn't exist: pickit/charm.nip
+[15:40:44] <ISOCharms> NIP file doesn't exist: pickit/unique.nip
+[15:40:49] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:40:50] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:40:50] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:40:51] <ISOCharms> Error in Questing (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Questing@questing.js:244, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:46:33] <ISOCharms> NIP file doesn't exist: pickit/set.nip
+[15:46:33] <ISOCharms> NIP file doesn't exist: pickit/charm.nip
+[15:46:33] <ISOCharms> NIP file doesn't exist: pickit/unique.nip
+[15:46:37] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:46:38] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:46:39] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:54] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:55] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:55] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:56] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:57] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:58] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:53:59] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:54:00] <ISOCharms> Error in Mephisto (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:133, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:54:00] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:56:38] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:56:38] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[15:58:00] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:01:15] <ISOCharms> Error in Corpsefire (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:23] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:24] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:24] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:25] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:26] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:27] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:28] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:28] <ISOCharms> Error in Mephisto (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:133, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:17:29] <ISOCharms> Error in WPGetter (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, WPGetter@wpgetter.js:2, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:43] <ISOCharms> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:44] <ISOCharms> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:45] <ISOCharms> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:46] <ISOCharms> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:46] <ISOCharms> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:47] <ISOCharms> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:21:48] <ISOCharms> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[16:35:03] <ISOCharms> Error in Tristram (tristram.js line 57): stone is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:56, @tristram.js:57
+[16:43:42] <ISOCharms> Error in KurastTemples (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[16:43:44] <ISOCharms> Error in Travincal (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[16:43:45] <ISOCharms> Error in Mephisto (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[18:42:21] <ISOUniques> Error in Smith (smith.js line 13): Failed to move to the Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:13
+[18:54:14] <ISOHrs> Error in Tristram (tristram.js line 46): Failed to move to Rakanishu
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:46
+[09:29:42] <ISOHrs> Error in TownChicken.js (town.js line 2209): Town.visitTown: Failed to go back from town
+Stack: main@townchicken.js:94, Town.visitTown@town.js:2209
+[13:33:36] <ISOUniques> Error in Smith (smith.js line 13): Failed to move to the Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:13
+[14:43:47] <ISOUniques> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[14:46:10] <ISOUniques> Error in Countess (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:11, useWaypoint@pather.js:992
+[14:49:06] <ISOUniques> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[18:09:23] <ISOCharms> Error in KurastTemples (kurasttemples.js line 33): Failed to move out of the temple
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:33
+[00:15:16] <ISOUniques> Error in KurastTemples (kurasttemples.js line 18): Failed to change area
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:18
+[05:54:13] <ISOExperience> Error in Mausoleum (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:13] <ISOExperience> Error in Tristram (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:13, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:14] <ISOExperience> Error in Smith (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:15] <ISOExperience> Error in Countess (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:16] <ISOExperience> Error in Andariel (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:36, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:16] <ISOExperience> Error in Tombs (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:10, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:17] <ISOExperience> Error in KurastTemples (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:8, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:18] <ISOExperience> Error in Travincal (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:25, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[05:54:19] <ISOExperience> Error in Mephisto (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:133, Town.doChores@town.js:100, Cubing.doCubing@cubing.js:916, Cubing.getCube@cubing.js:156, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[06:05:35] <ISOExperience> Error in Tombs (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[06:05:36] <ISOExperience> Error in KurastTemples (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:05:38] <ISOExperience> Error in Travincal (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:05:40] <ISOExperience> Error in Mephisto (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:12:42] <ISOExperience> Error in Tombs (pather.js line 939): Pather.useWaypoint: Failed to go to waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:939
+[06:12:50] <ISOExperience> Error in KurastTemples (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:12:52] <ISOExperience> Error in Travincal (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:12:53] <ISOExperience> Error in Mephisto (town.js line 2176): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1348, Town.goToTown@town.js:2176
+[06:46:42] <ISOExperience> Error in Summoner (pather.js line 1303): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:9, useWaypoint@pather.js:935, Pather.getWP@pather.js:1303
+[09:16:55] <ISOCharms> Error in Tombs (tombs.js line 26): Failed to move to Canyon
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:26
+[15:06:36] <ISOExperience> Error in Tombs (tombs.js line 26): Failed to move to Canyon
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:26
+[15:19:40] <ISOUniques> Error in Tombs (tombs.js line 16): Failed to move to tomb
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:16
+[15:37:18] <ISOExperience> Error in Treehead (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Treehead@treehead.js:9, useWaypoint@pather.js:992
+[15:39:41] <ISOExperience> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[15:42:31] <ISOExperience> Error in Countess (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:11, useWaypoint@pather.js:992
+[16:07:48] <ISOHrs> Error in Tombs (tombs.js line 26): Failed to move to Canyon
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:26
+[00:58:52] <ISOExperience> Error in Tombs (tombs.js line 26): Failed to move to Canyon
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:26
+[01:18:31] <ISOUniques> Error in Mausoleum (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:9, useWaypoint@pather.js:992
+[01:21:06] <ISOUniques> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[01:23:26] <ISOUniques> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[01:25:46] <ISOUniques> Error in Countess (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:11, useWaypoint@pather.js:992
+[01:26:33] <ISOCharms> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[01:27:58] <ISOUniques> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[01:30:03] <ISOUniques> Error in Tombs (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:992
+[01:31:46] <ISOCharms> Error in AncientTunnels (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AncientTunnels@ancienttunnels.js:9, useWaypoint@pather.js:992
+[01:32:33] <ISOUniques> Error in KurastTemples (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:992
+[01:34:58] <ISOUniques> Error in Travincal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:992
+[01:37:16] <ISOUniques> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[01:37:23] <ISOCharms> Error in Summoner (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:9, useWaypoint@pather.js:992
+[05:26:11] <ISOUniques> Error in Tristram (tristram.js line 46): Failed to move to Rakanishu
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:46
+[17:32:34] <ISOUniques> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:15
+[18:45:17] <ISOHrs> Error in Smith (smith.js line 13): Failed to move to the Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:13
+[02:14:40] <ISOCharms> Error in Corpsefire (corpsefire.js line 13): Failed to move to Corpsefire
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:13
+[02:57:56] <ISOExperience> Error in Smith (smith.js line 13): Failed to move to the Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:13
+[02:58:26] <ISOExperience> Error in Countess (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[02:58:56] <ISOExperience> Error in AncientTunnels (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[02:59:28] <ISOExperience> Error in Summoner (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[02:59:58] <ISOExperience> Error in Tombs (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[03:00:27] <ISOExperience> Error in KurastTemples (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[08:37:28] <ISOExperience> Error in Treehead (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Treehead@treehead.js:9, useWaypoint@pather.js:992
+[08:38:05] <ISOExperience> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[08:38:45] <ISOExperience> Error in Countess (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:11, useWaypoint@pather.js:992
+[08:39:24] <ISOExperience> Error in AncientTunnels (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AncientTunnels@ancienttunnels.js:9, useWaypoint@pather.js:992
+[08:40:02] <ISOExperience> Error in Summoner (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:9, useWaypoint@pather.js:992
+[08:40:40] <ISOExperience> Error in Tombs (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:992
+[08:41:18] <ISOExperience> Error in KurastTemples (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:992
+[11:59:46] <ISOUniques> Error in Travincal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:992
+[12:00:28] <ISOUniques> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[13:02:03] <ISOHrs> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:15
+[21:06:17] <ISOExperience> Error in Corpsefire (attack.js line 339): Attack.clear: Corpsefire not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Corpsefire@corpsefire.js:16, Attack.clear@attack.js:339
+[22:39:33] <ISOHrs> Error in AncientTunnels (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AncientTunnels@ancienttunnels.js:9, useWaypoint@pather.js:992
+[22:41:49] <ISOHrs> Error in Summoner (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:9, useWaypoint@pather.js:992
+[22:44:17] <ISOHrs> Error in Tombs (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:992
+[22:46:34] <ISOHrs> Error in KurastTemples (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:992
+[22:49:14] <ISOHrs> Error in Travincal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:992
+[08:59:50] <ISOUniques> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:15
+[14:18:09] <ISOExperience> Error in Summoner (summoner.js line 25): Failed to move to Summoner
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Summoner@summoner.js:25
+[18:52:32] <ISOExperience> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[18:52:33] <ISOUniques> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[18:52:42] <ISOCharms> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[20:02:07] <ISOUniques> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[20:02:16] <ISOExperience> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[20:02:24] <ISOCharms> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[20:06:07] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[20:06:52] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[22:52:38] <ISOUniques> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[22:52:40] <ISOCharms> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[22:52:43] <ISOExperience> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[22:52:59] <ISOCharms> Error in Treehead (attack.js line 339): Attack.clear: Treehead WoodFist not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Treehead@treehead.js:16, Attack.clear@attack.js:339
+[23:31:00] <ISOExperience> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[23:34:51] <ISOUniques> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[23:35:02] <ISOCharms> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[23:35:02] <ISOExperience> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[23:47:31] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[23:48:32] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[00:32:17] <ISOUniques> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[00:32:21] <ISOCharms> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[01:28:05] <ISOHrs> Error in Tristram (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:09] <ISOUniques> Error in Tristram (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:10] <ISOCharms> Error in Tristram (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:10] <ISOHrs> Error in Smith (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:14] <ISOUniques> Error in Smith (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:15] <ISOCharms> Error in Smith (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:15] <ISOHrs> Error in Andariel (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:28:20] <ISOCharms> Error in Andariel (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[01:54:03] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[01:54:09] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[02:30:16] <ISOUniques> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[02:30:17] <ISOHrs> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[02:30:18] <ISOCharms> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[02:35:31] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[02:35:32] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[02:39:24] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[02:39:37] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[02:43:59] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[02:44:13] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[02:46:35] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[02:46:50] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[03:20:26] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[03:45:23] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[03:46:57] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[03:47:00] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[03:47:15] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[03:47:16] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[03:54:29] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[03:58:41] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[03:58:47] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[04:01:36] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[04:01:52] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[04:16:36] <ISOCharms> Error in Mausoleum (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:18, Attack.kill@attack.js:157
+[04:20:11] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[04:20:15] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[04:20:31] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[05:10:19] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[05:12:31] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[05:12:42] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[05:12:44] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[05:12:55] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[05:23:32] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[05:26:39] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[05:52:50] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[05:53:04] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[06:22:09] <ISOUniques> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[06:24:17] <ISOUniques> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[06:26:32] <ISOUniques> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[06:53:47] <ISOUniques> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[06:55:54] <ISOUniques> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[07:13:15] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:13:35] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:16:04] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[07:16:26] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[07:21:21] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:25:38] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[07:25:52] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[07:30:54] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:39:19] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:39:56] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[07:42:00] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[07:42:17] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[08:20:18] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[08:22:05] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[08:22:10] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[08:40:42] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[08:40:43] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[08:43:29] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[08:43:48] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[08:54:59] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[08:55:39] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[08:58:54] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[08:59:07] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[09:09:04] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[09:09:09] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[09:11:09] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[09:11:24] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[09:37:45] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[10:53:53] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[10:55:40] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[10:55:46] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[11:01:55] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[11:09:10] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[11:44:37] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[11:46:12] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[11:46:19] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[11:46:38] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[12:10:39] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[12:11:08] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[12:13:50] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[12:14:03] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[12:26:37] <ISOCharms> Error in Mausoleum (town.js line 2209): Town.visitTown: Failed to go back from town
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:26, Attack.clearLevel@attack.js:784, Attack.clear@attack.js:447, Pickit.pickItems@pickit.js:138, Town.visitTown@town.js:2209
+[12:28:58] <ISOCharms> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[12:31:11] <ISOCharms> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[12:33:18] <ISOCharms> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[13:40:14] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[13:40:15] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[13:45:25] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[13:45:39] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[14:03:51] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[14:05:03] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[14:16:13] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[14:18:21] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[14:18:22] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[14:18:43] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[14:18:46] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[14:43:55] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[14:45:54] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[14:46:09] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[15:04:34] <ISOUniques> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[15:06:47] <ISOUniques> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[15:08:41] <ISOUniques> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[16:18:36] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[16:20:28] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[16:20:51] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[17:27:13] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[17:55:29] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[17:57:31] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[17:57:34] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[17:57:44] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[17:57:48] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[19:06:54] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[19:10:04] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[19:10:19] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[19:16:02] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[19:17:58] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[19:34:15] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[19:35:25] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[19:35:38] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[19:55:34] <ISOCharms> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[19:55:34] <ISOUniques> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[19:55:35] <ISOHrs> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[21:46:42] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[21:48:52] <ISOUniques> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[21:48:55] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[21:49:04] <ISOUniques> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[21:49:11] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[23:14:02] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[23:14:07] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[23:42:28] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[23:42:30] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[23:42:42] <ISOHrs> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[23:42:49] <ISOCharms> Error in Smith (attack.js line 214): Failed to kill The Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:214
+[00:06:29] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[00:13:33] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[00:13:52] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[00:16:06] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[00:16:20] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[00:21:57] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[00:22:00] <ISOCharms> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[00:39:32] <ISOHrs> Error in Smith (smith.js line 13): Failed to move to the Smith
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:13
+[01:09:25] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[01:11:03] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[01:11:13] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[01:17:32] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[01:17:35] <ISOHrs> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[01:24:44] <ISOUniques> Error in Tristram (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:53, Attack.clear@attack.js:339
+[01:26:32] <ISOHrs> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[01:26:42] <ISOCharms> Error in Smith (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:16, Attack.kill@attack.js:157
+[05:30:23] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[05:32:11] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[06:37:51] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[06:39:23] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[07:30:56] <ISOHrs> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[08:11:45] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[08:13:57] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[08:34:52] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[08:36:24] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[08:57:48] <ISOHrs> Error in Rakanishu (rakanishu.js line 20): Failed to move to Tristram
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:20
+[08:58:04] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[09:42:31] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[09:43:34] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[10:41:04] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[10:43:15] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[11:11:55] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[11:43:18] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[11:44:48] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[11:58:08] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[12:00:28] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[12:44:52] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[12:46:40] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[13:07:26] <ISOHrs> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[13:41:21] <ISOHrs> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[14:24:18] <ISOHrs> Error in Rakanishu (rakanishu.js line 20): Failed to move to Tristram
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:20
+[14:45:45] <ISOCharms> Error in Rakanishu (attack.js line 339): Attack.clear: Rakanishu not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Rakanishu@rakanishu.js:16, Attack.clear@attack.js:339
+[14:47:13] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[20:26:08] <ISOCharms> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[02:36:02] <ISORuneWords> Error in Tristram (pickit.js line 227): unit is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:28, Pickit.pickItem@pickit.js:227
+[03:03:30] <ISORuneWords> Error in Tristram (tristram.js line 57): stone is undefined
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:56, @tristram.js:57
+[03:59:12] <ISOCharms> Error in Mausoleum (town.js line 2209): Town.visitTown: Failed to go back from town
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:34, Attack.clearLevel@attack.js:784, Attack.clear@attack.js:444, Attack.openChests@attack.js:907, Misc.openChest@misc.js:863, Pather.moveTo@pather.js:232, NodeAction.go@pather.js:15, NodeAction.popChests@pather.js:55, Misc.openChests@misc.js:976, Pickit.pickItems@pickit.js:138, Town.visitTown@town.js:2209
+[04:01:04] <ISOCharms> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[04:03:26] <ISOCharms> Error in AncientTunnels (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, AncientTunnels@ancienttunnels.js:9, useWaypoint@pather.js:992
+[05:06:47] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[05:21:06] <ISORuneWords> Error in Baal (pather.js line 818): useUnit: Incomplete quest.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:935, Pather.getWP@pather.js:1299, Pather.journeyTo@pather.js:1445, Pather.moveToExit@pather.js:634, Pather.openExit@pather.js:729, Pather.useUnit@pather.js:818
+[05:31:40] <ISOCharms> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[08:55:08] <ISORuneWords> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:15
+[10:45:27] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[16:38:33] <ISORuneWords> Error in Mephisto (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[16:38:38] <ISORuneWords> Error in Eldritch (town.js line 2156): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2156
+[18:57:36] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[01:00:14] <ISORuneWords> Error in Mausoleum (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:9, useWaypoint@pather.js:992
+[03:32:59] <ISORuneWords> Error in KurastTemples (kurasttemples.js line 33): Failed to move out of the temple
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:33
+[03:35:06] <ISORuneWords> Error in Travincal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:992
+[03:41:05] <ISORuneWords> Error in Mausoleum (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:9, useWaypoint@pather.js:992
+[09:29:11] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[10:49:50] <ISORuneWords> Error in Mausoleum (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:9, useWaypoint@pather.js:992
+[10:51:06] <ISORuneWords> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992
+[10:52:30] <ISORuneWords> Error in Smith (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Smith@smith.js:9, useWaypoint@pather.js:992
+[10:53:54] <ISORuneWords> Error in Countess (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Countess@countess.js:11, useWaypoint@pather.js:992
+[10:55:15] <ISORuneWords> Error in Andariel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:37, useWaypoint@pather.js:992
+[10:56:38] <ISORuneWords> Error in Tombs (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tombs@tombs.js:11, useWaypoint@pather.js:992
+[10:58:02] <ISORuneWords> Error in KurastTemples (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:9, useWaypoint@pather.js:992
+[10:59:15] <ISORuneWords> Error in Travincal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Travincal@travincal.js:26, useWaypoint@pather.js:992
+[11:00:39] <ISORuneWords> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[11:01:56] <ISORuneWords> Error in Eldritch (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Eldritch@eldritch.js:11, useWaypoint@pather.js:992
+[12:00:41] <ISORuneWords> Error in Mausoleum (mausoleum.js line 13): Failed to move to Burial Grounds
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:13
+[13:17:11] <ISOHrs> Error in Andariel (attack.js line 157): Attack.kill: Target not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Andariel@andariel.js:49, Attack.kill@attack.js:157
+[14:19:16] <ISORuneWords> Error in KurastTemples (kurasttemples.js line 18): Failed to change area
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, KurastTemples@kurasttemples.js:18
+[14:19:46] <ISORuneWords> Error in Travincal (town.js line 2160): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[14:37:17] <ISORuneWords> Error in Mausoleum (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mausoleum@mausoleum.js:9, useWaypoint@pather.js:992
+[14:41:04] <ISORuneWords> Error in Tristram (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Tristram@tristram.js:42, useWaypoint@pather.js:992

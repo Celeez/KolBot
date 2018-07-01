@@ -1,0 +1,32 @@
+//-----------------------------------------------------------------------------------------------------
+//		This is a list of set items that you want your bot to pick up
+//		Any item on THIS list which starts with //[ will NOT be picked up at all
+//		Any item on THIS list which starts with [	will be picked up
+// -----------------------------------------------------------------------------------------------------
+
+// --tal rasha's--
+//[name] == swirlingcrystal && [quality] == set # # [maxquantity] == 1
+[name] == deathmask && [quality] == set # [defense] == 130 # # [maxquantity] == 1
+[name] == lacqueredplate && [quality] == set 
+[name] == amulet && [quality] == set # [lightresist] == 33
+[name] == meshbelt && [quality] == set # [itemmagicbonus] == 15 && [defense] == 35
+
+// --aldur's--
+[name] == battleboots && [quality] == set # [fireresist] == 50
+
+// --immortal king's--
+//[name] == warboots && [quality] == set
+//[name] == warbelt && [quality] == set
+//[name] == ogremaul && [quality] == set
+[name] == avengerguard && [quality] == set # [itemmagicbonus] == 40 
+
+// --trang-oul's--
+[name] == heavybracers && [quality] == set
+[name] == trollbelt && [quality] == set # [maxmana] == 45 // 25~50 mana
+[name] == bonevisage && [quality] == set # 
+
+// griswold's
+
+[name] == caduceus && [quality] == set # [enhanceddamage] == 240 && [sockets] == 4
+[name] == corona  && [quality] == set # [enhanceddefense] == 75 && [itemmagicbonus] == 30
+[name] == vortexshield && [quality] == set # [defense] == 290 // 290~333 defense
